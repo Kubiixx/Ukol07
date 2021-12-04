@@ -14,7 +14,7 @@ public class MainTest {
     public void testSum1 () {
         Main main = new Main();
 
-        assertEquals(8, main.sum(2,8));
+        assertEquals(8, main.sum(2,6));
     }
 
 
